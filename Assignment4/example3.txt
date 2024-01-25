@@ -1,0 +1,210 @@
+Column: value
+Count: 20640
+Mean: 206855.82
+StdDev: 115392.82
+Min: 14999.00
+25th percentile (Q1): 119600.00
+Median: 179700.00
+75th percentile (Q3): 264725.00
+Max: 500001.00
+
+Column: income
+Count: 20640
+Mean: 3.87
+StdDev: 1.90
+Min: 0.50
+25th percentile (Q1): 2.56
+Median: 3.53
+75th percentile (Q3): 4.74
+Max: 15.00
+
+Column: age
+Count: 20640
+Mean: 28.64
+StdDev: 12.59
+Min: 1.00
+25th percentile (Q1): 18.00
+Median: 29.00
+75th percentile (Q3): 37.00
+Max: 52.00
+
+Column: rooms
+Count: 20640
+Mean: 2635.76
+StdDev: 2181.56
+Min: 2.00
+25th percentile (Q1): 1447.75
+Median: 2127.00
+75th percentile (Q3): 3148.00
+Max: 39320.00
+
+Column: bedrooms
+Count: 20640
+Mean: 537.90
+StdDev: 421.24
+Min: 1.00
+25th percentile (Q1): 295.00
+Median: 435.00
+75th percentile (Q3): 647.00
+Max: 6445.00
+
+Column: pop
+Count: 20640
+Mean: 1425.48
+StdDev: 1132.43
+Min: 3.00
+25th percentile (Q1): 787.00
+Median: 1166.00
+75th percentile (Q3): 1725.00
+Max: 35682.00
+
+Column: hh
+Count: 20640
+Mean: 499.54
+StdDev: 382.32
+Min: 1.00
+25th percentile (Q1): 280.00
+Median: 409.00
+75th percentile (Q3): 605.00
+Max: 6082.00
+
+Column: value
+Count: 20640
+Mean: 206855.82
+StdDev: 115392.82
+Min: 14999.00
+25th percentile (Q1): 119600.00
+Median: 179700.00
+75th percentile (Q3): 264725.00
+Max: 500001.00
+
+Column: income
+Count: 20640
+Mean: 3.87
+StdDev: 1.90
+Min: 0.50
+25th percentile (Q1): 2.56
+Median: 3.53
+75th percentile (Q3): 4.74
+Max: 15.00
+
+Column: age
+Count: 20640
+Mean: 28.64
+StdDev: 12.59
+Min: 1.00
+25th percentile (Q1): 18.00
+Median: 29.00
+75th percentile (Q3): 37.00
+Max: 52.00
+
+Column: rooms
+Count: 20640
+Mean: 2635.76
+StdDev: 2181.56
+Min: 2.00
+25th percentile (Q1): 1447.75
+Median: 2127.00
+75th percentile (Q3): 3148.00
+Max: 39320.00
+
+Column: bedrooms
+Count: 20640
+Mean: 537.90
+StdDev: 421.24
+Min: 1.00
+25th percentile (Q1): 295.00
+Median: 435.00
+75th percentile (Q3): 647.00
+Max: 6445.00
+
+Column: pop
+Count: 20640
+Mean: 1425.48
+StdDev: 1132.43
+Min: 3.00
+25th percentile (Q1): 787.00
+Median: 1166.00
+75th percentile (Q3): 1725.00
+Max: 35682.00
+
+Column: hh
+Count: 20640
+Mean: 499.54
+StdDev: 382.32
+Min: 1.00
+25th percentile (Q1): 280.00
+Median: 409.00
+75th percentile (Q3): 605.00
+Max: 6082.00
+
+Column: value
+Count: 20640
+Mean: 206855.82
+StdDev: 115392.82
+Min: 14999.00
+25th percentile (Q1): 119600.00
+Median: 179700.00
+75th percentile (Q3): 264725.00
+Max: 500001.00
+
+Column: income
+Count: 20640
+Mean: 3.87
+StdDev: 1.90
+Min: 0.50
+25th percentile (Q1): 2.56
+Median: 3.53
+75th percentile (Q3): 4.74
+Max: 15.00
+
+Column: age
+Count: 20640
+Mean: 28.64
+StdDev: 12.59
+Min: 1.00
+25th percentile (Q1): 18.00
+Median: 29.00
+75th percentile (Q3): 37.00
+Max: 52.00
+
+Column: rooms
+Count: 20640
+Mean: 2635.76
+StdDev: 2181.56
+Min: 2.00
+25th percentile (Q1): 1447.75
+Median: 2127.00
+75th percentile (Q3): 3148.00
+Max: 39320.00
+
+Column: bedrooms
+Count: 20640
+Mean: 537.90
+StdDev: 421.24
+Min: 1.00
+25th percentile (Q1): 295.00
+Median: 435.00
+75th percentile (Q3): 647.00
+Max: 6445.00
+
+Column: pop
+Count: 20640
+Mean: 1425.48
+StdDev: 1132.43
+Min: 3.00
+25th percentile (Q1): 787.00
+Median: 1166.00
+75th percentile (Q3): 1725.00
+Max: 35682.00
+
+Column: hh
+Count: 20640
+Mean: 499.54
+StdDev: 382.32
+Min: 1.00
+25th percentile (Q1): 280.00
+Median: 409.00
+75th percentile (Q3): 605.00
+Max: 6082.00
+
